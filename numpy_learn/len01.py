@@ -1,4 +1,4 @@
-# python基本数据类型事例
+# python基本数据类型示例
 
 x = 3
 print type(x)
