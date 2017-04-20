@@ -1,3 +1,5 @@
+# python列表示例
+
 xs = [3, 1, 2]
 print xs, xs[2]
 print xs[-1]
